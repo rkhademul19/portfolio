@@ -3,6 +3,7 @@
 A simple one-page developer portfolio built with Next.js, TypeScript, Tailwind CSS, Lucide React and Framer Motion.
 
 ## Run locally
+<!--  -->
 
 ```bash
 npm install

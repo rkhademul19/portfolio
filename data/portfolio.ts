@@ -16,7 +16,7 @@ export const about =
 /** Small highlight cards next to the About text. Edit or remove freely. */
 export const highlights = [
   { icon: "calendar", value: "4+", label: "Years Experience" },
-  { icon: "code", value: "20+", label: "Projects / Features" },
+  { icon: "code", value: "4+", label: "Projects / Features" },
   { icon: "react", value: "React &", label: "Next.js" },
   { icon: "zap", value: "API", label: "Integration" },
 ] as const;
